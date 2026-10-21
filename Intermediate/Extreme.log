@@ -1,0 +1,140 @@
+﻿  closehandle.cpp
+  StealthyOpenProcess.cpp
+  Chams.cpp
+  GraficoMassinha.cpp
+  dllmain.cpp
+  Draw.cpp
+  BindOverlay.cpp
+  Silent.cpp
+  Skeleton.cpp
+  NameGun.cpp
+  DownLocalPlayer.cpp
+  RotatePlayer.cpp
+D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Draw\Weapon\NameGun.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x156 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Draw\Weapon\NameGun.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x1117 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Draw\Weapon\NameGun.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x1392 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Draw\Weapon\NameGun.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x17e2 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Draw\Weapon\NameGun.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x1e4b que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+  Clothes.cpp
+  ClothesCatalog.cpp
+  ClothesImages.cpp
+  ClothesTab.cpp
+D:\SRCS\BLOOD EXTREME\EXTREME\ext\Dependencies\Notify\Notify.hpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x2b1 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+  (compilando o arquivo fonte 'EspLines/Main/Draw/Silent.cpp')
+  
+D:\SRCS\BLOOD EXTREME\EXTREME\ext\Dependencies\Notify\Notify.hpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x2b1 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+  (compilando o arquivo fonte 'EspLines/Main/Exploits/DownLocalPlayer.cpp')
+  
+D:\SRCS\BLOOD EXTREME\EXTREME\ext\Dependencies\Notify\Notify.hpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x2b1 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+  (compilando o arquivo fonte 'EspLines/Main/Exploits/RotatePlayer.cpp')
+  
+D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Exploits\RotatePlayer.cpp(84,41): warning C4307: '*': estouro de constante integral assinada
+D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Exploits\RotatePlayer.cpp(223,39): warning C4312: 'reinterpret_cast': conversão de 'uint32_t' para 'Offsets::UnityList<true,unsigned int> *' de tamanho maior
+  GameMemory.cpp
+  bluestacks.cpp
+  gva_memory_bridge.cpp
+  kernel_structs.cpp
+  memory_engine.cpp
+  EmulatorEnvironment.cpp
+D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\EmulatorEnvironment.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x170b que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\EmulatorEnvironment.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x172f que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\EmulatorEnvironment.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x1e2c que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\EmulatorEnvironment.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x1e40 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\EmulatorEnvironment.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x1e5b que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+  Memory.cpp
+D:\SRCS\BLOOD EXTREME\EXTREME\ext\Dependencies\Notify\Notify.hpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x2b1 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+  (compilando o arquivo fonte 'EspLines/Main/Draw/Draw.cpp')
+  
+  Offsets.cpp
+D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Offsets\Offsets.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x3bdb que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+  Unity.cpp
+  UTF8.cpp
+  Math.cpp
+  Quaternion.cpp
+  Vector2.cpp
+  Vector3.cpp
+  Vector4.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_freetype.cpp
+  imgui_impl_opengl3.cpp
+D:\SRCS\BLOOD EXTREME\EXTREME\ext\Dependencies\Notify\Notify.hpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x2b1 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+  (compilando o arquivo fonte 'EspLines/Main/Memory/Memory.cpp')
+  
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Custom.cpp
+  Notify.cpp
+D:\SRCS\BLOOD EXTREME\EXTREME\ext\Dependencies\Notify\Notify.hpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x2b1 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+  (compilando o arquivo fonte 'ext/Dependencies/Notify/Notify.cpp')
+  
+  stb_image.cpp
+  VehCpuHook.cpp
+  Vehpageguardhook.cpp
+  DiscordRPC.cpp
+  connection_win.cpp
+  discord_register_win.cpp
+  discord_rpc.cpp
+  rpc_connection.cpp
+  serialization.cpp
+  Cheat.cpp
+  FullScreenFix.cpp
+  saveconfig.cpp
+  AvatarRuntime.cpp
+  SkinChanger.cpp
+  DynamicStub.cpp
+D:\SRCS\BLOOD EXTREME\EXTREME\src\DynamicStub\DynamicStub.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x1681 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+  Fonts.cpp
+  AuthCache.cpp
+D:\SRCS\BLOOD EXTREME\EXTREME\ext\Auth\Api\json.hpp(16884,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0xa1061 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+  (compilando o arquivo fonte 'ext/Discord/DiscordRPC.cpp')
+  
+D:\SRCS\BLOOD EXTREME\EXTREME\ext\Auth\obf.hpp(2,9): warning C4005: '_WIN32_WINNT': redefinição de macro
+  (compilando o arquivo fonte 'ext/Discord/DiscordRPC.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\sdkddkver.h(228,10):
+      ver a definição anterior de "_WIN32_WINNT"
+  
+  Interface.cpp
+D:\SRCS\BLOOD EXTREME\EXTREME\ext\Dependencies\Notify\Notify.hpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x2b1 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+  (compilando o arquivo fonte 'src/Cheat/Cheat.cpp')
+  
+  Overlay.cpp
+  Render.cpp
+  Utils.cpp
+D:\SRCS\BLOOD EXTREME\EXTREME\src\Utils\Utils.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0xf8 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+D:\SRCS\BLOOD EXTREME\EXTREME\src\Utils\Utils.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x1092 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+D:\SRCS\BLOOD EXTREME\EXTREME\src\Utils\Utils.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x10a9 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+D:\SRCS\BLOOD EXTREME\EXTREME\src\Utils\Utils.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x10b7 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+D:\SRCS\BLOOD EXTREME\EXTREME\src\Utils\Utils.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x132a que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+D:\SRCS\BLOOD EXTREME\EXTREME\src\Utils\Utils.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x1394 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+D:\SRCS\BLOOD EXTREME\EXTREME\src\Utils\Utils.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x139e que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+D:\SRCS\BLOOD EXTREME\EXTREME\src\Utils\Utils.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x14d9 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+D:\SRCS\BLOOD EXTREME\EXTREME\src\Utils\Utils.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x14e7 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+D:\SRCS\BLOOD EXTREME\EXTREME\src\Utils\Utils.cpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x14fb que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+D:\SRCS\BLOOD EXTREME\EXTREME\ext\Dependencies\Notify\Notify.hpp(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x2b1 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+  (compilando o arquivo fonte 'src/Render/Interface/Interface.cpp')
+  
+D:\SRCS\BLOOD EXTREME\EXTREME\ext\Auth\Api\json.hpp(16884,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0xa1061 que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+  (compilando o arquivo fonte 'src/Render/Interface/Interface.cpp')
+  
+D:\SRCS\BLOOD EXTREME\EXTREME\ext\Auth\obf.hpp(2,9): warning C4005: '_WIN32_WINNT': redefinição de macro
+  (compilando o arquivo fonte 'src/Render/Interface/Interface.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\sdkddkver.h(228,10):
+      ver a definição anterior de "_WIN32_WINNT"
+  
+D:\SRCS\BLOOD EXTREME\EXTREME\resource.h(1,1): warning C4828: O arquivo contém um caractere começando com o deslocamento 0x2b que é inválido no conjunto de caracteres de origem atual (página de código 65001).
+  (compilando o arquivo fonte 'src/Render/Interface/Interface.cpp')
+  
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  logo.c
+     Criando biblioteca D:\SRCS\BLOOD EXTREME\EXTREME\x64\Release\Extreme.lib e objeto D:\SRCS\BLOOD EXTREME\EXTREME\x64\Release\Extreme.exp
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 12644 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  Extreme.vcxproj -> D:\SRCS\BLOOD EXTREME\EXTREME\x64\Release\Extreme.dll

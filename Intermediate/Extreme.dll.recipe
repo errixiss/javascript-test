@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\x64\Release\Extreme.dll</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Exploits\DownLocalPlayer.cpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Exploits\RotatePlayer.cpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Cloth\Clothes.cpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Cloth\ClothesCatalog.cpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Cloth\ClothesImages.cpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Cloth\ClothesTab.cpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Structure\bluestacks.cpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Structure\gva_memory_bridge.cpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Structure\kernel_structs.cpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Structure\memory_engine.cpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\src\Cheat\SkinChanger\AvatarRuntime.cpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\src\Cheat\SkinChanger\SkinChanger.cpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Aimbot\Aimbot.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Aimbot\AimbotDelay.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Aimbot\RageAimbot.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Exploits\DownLocalPlayer.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Exploits\RotatePlayer.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Cloth\Clothes.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Cloth\ClothesCatalog.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Cloth\ClothesController.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Cloth\ClothesImagePack.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Cloth\ClothesImages.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Cloth\ClothesPageLoader.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Cloth\ClothesProfile.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Cloth\ClothesTab.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Cloth\Offsets.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Implementation\includes.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Structure\app_config.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Structure\bluestacks.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Structure\gva_memory_bridge.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Structure\kernel_structs.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Structure\memory.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Structure\memory_engine.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Structure\types.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\ext\Auth\Api\curl\curl.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\ext\Auth\Api\curl\curlver.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\ext\Auth\Api\curl\easy.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\ext\Auth\Api\curl\mprintf.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\ext\Auth\Api\curl\multi.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\ext\Auth\Api\curl\options.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\ext\Auth\Api\curl\stdcheaders.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\ext\Auth\Api\curl\system.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\ext\Auth\Api\curl\typecheck-gcc.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\ext\Auth\Api\curl\urlapi.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\ext\Auth\Api\json.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\ext\Auth\Api\structs\structs.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\ext\Auth\obf.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\ext\Auth\obfuscate.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\ext\Auth\Security.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\ext\Auth\xorstr.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\ext\Dependencies\MinHook\include\MinHook.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\src\Cheat\SkinChanger\AvatarRuntime.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\src\Cheat\SkinChanger\OutfitState.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\src\Cheat\SkinChanger\SkinChanger.hpp</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\ext\Auth\Api\curl\libcurl.lib</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Cloth\ClothesCatalogData.inc</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Cloth\ClothesImages.pack</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Cloth\ClothesImages.sources.json</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\SRCS\BLOOD EXTREME\EXTREME\EspLines\Main\Memory\ChangerMemory\Cloth\README.md</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
